@@ -1,0 +1,9 @@
+/**/env/
+/**/__pycache__/
+/env/
+/__pycache__/
+.DS_Store
+/**/.DS_Store
+secret_local.sh
+
+/**/node_modules/
